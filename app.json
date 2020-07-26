@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait",
+    "name": "Nubber",
+    "icon": "./img/icon.png",
+    "version": "1.0.0",
+    "slug": "nubber",
+    "ios": {
+      "bundleIdentifier": "br.com.nubber.mobile"
+    },
+    "android": {
+      "package": "br.com.nubber.mobile"
+    }
+  }
+
+  // Keystore password: 5bbaf6ec-c32e-4984-8987-524af780020b
+  // Key alias:         QGxvb3AzL251YmJlcg==
+  // Key password:      043896c0-26d1-454a-8e1c-c942ed4a63fc
+  // IQhYhYJJXKdCnJkEEbWKKAaMDPY=
+}
